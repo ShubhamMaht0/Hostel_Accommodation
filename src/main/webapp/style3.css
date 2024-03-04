@@ -1,0 +1,16 @@
+/*style for success mssg*/
+
+p {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #fff;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+    text-align: left;
+    margin: 10px 0;
+    padding: 0;
+
+}
